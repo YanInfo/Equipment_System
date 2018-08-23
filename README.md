@@ -1,6 +1,6 @@
 # 24K纯手工SpringMvc管理系统，了解一下
 
-[博客](http://www.idtkm.com)主要更新Android相关的内容，此为博客备份目录。
+[博客]( www.yanblog.info)主要用于分享java框架，小程序和前端技术学习的项目和一些生活小牢骚
 
 ******
 
