@@ -4,12 +4,11 @@
 
 ******
 
-* [Android坐标系与View绘制流程](https://github.com/Idtk/Blog/blob/master/Blog/1%E3%80%81CoordinateAndProcess.md)
-* [Canvas与ValueAnimator](https://github.com/Idtk/Blog/blob/master/Blog/2%E3%80%81CanvasAndValueAnimator.md)
+* [项目介绍](http://www.yanblog.info/article/22)
 
 ******
 
 
 ## About
 
-&nbsp;&nbsp;**博客: www.idtkm.com**<br>
+&nbsp;&nbsp;**博客: www.yanblog.info**<br>
