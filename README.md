@@ -5,7 +5,7 @@
 ******
 ## :coffee: SpringMvc
 
-* [项目介绍](http://www.yanblog.info/article/22)
+* [项目介绍](http://www.yanblog.info/article/22)  
 登录页面：
 ![Image text](https://github.com/YanInfo/Equipment_System/blob/master/equipment/images/login.png)
 用户管理：
